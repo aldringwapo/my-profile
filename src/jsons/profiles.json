@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "02 sep 2002" },
+    {
+      "website": "<a target='blank' href='http://ian-claros-resume.s3-website-us-east-1.amazonaws.com'>http://ian-claros-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 963-529-2648" },
+    { "address": "Sta,Catalina, Sagbayan, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 27 },
+    { "degree": "BSIT4" },
+    { "email": "<a href='mailto:jared788lopez@gmail.com'>jared788lopez@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Sta,Catalina, Sagbayan, Bohol, Philippines",
+    "+63 930-861-2553",
+    "<a href='mailto:jared788lopez@gmail.com'>jared788lopez@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "BSIT-4",
+      "year": "2021 - 2025",
+      "school": "Mater dei College",
+      "address": "Cabulian Sagbayan Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2021",
+      "school": "Salus Institue of Technology",
+      "address": "Sta,Catalina, Sagbayan, Bohol, "
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2006 - 2013",
+      "school": "Sta,Catalina  Elementary School",
+      "address": "Sta,Catalina, Sagbayan, Bohol"
+    }
+  ]
+}
